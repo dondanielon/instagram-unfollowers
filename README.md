@@ -1,7 +1,5 @@
 # Instagram Helper
 
-A utility class to help manage Instagram followers and following relationships.
-
 ## English
 
 ### Installation
